@@ -49,16 +49,44 @@
     height: 350px;
   
 }
+
+.best-offer-sub-taitel {
+    text-align: center;
+}
+
+.best-offer {
+    width: 100%;
+    text-align: center;
+}
+
+.coming-description {
+    color: rgba(7, 2, 17, 0.6);
+    font-size: 1.25em;
+    font-weight: 400;
+}
+
+.coming-soon-2024 {
+    width: 300px;
+    text-align: center;
+}
+
 .coming-soon-section {
     display: flex;
     flex-direction: column;
 
 }
 .coming-soon-img {
-    width: 400px;
-    margin-top: 1.25em;
+    
+    margin-top: 1.25em auto;
 
 
+}
+.soon-2024-img{
+    width: 150px;
+    margin: 0 auto;
+}
+.soon-2024-img > img{
+    width: 100%;
 }
 .coming-soon-section , .coming-soon {
     margin: 0em 0;
@@ -369,8 +397,14 @@ address {
 .copy-wright{
     margin: 15px;
 }
-.holiday-img > div{
+.regten >img {
+    width: 98%;
+    margin: 0 auto;
 
+
+}
+.holiday-img {
+position: static;
 }
 .holiday-img {
 margin-top: 150px;
@@ -384,7 +418,7 @@ margin-top: 150px;
 }
 .img-1,
 .img-2 {
-    position: absolute;
+    position: static;
     width: 250px;
 }
 .img-1 {

@@ -163,7 +163,7 @@ section {
 }
 
 .best-offer {
-    width: 393px;
+    width: 393p
 }
 
 .coming-soon {
@@ -191,7 +191,7 @@ section {
 }
 
 .coming-soon-img {
-    width: 463px;
+    width: 90%;
     box-sizing: border-box;
 
 
@@ -245,7 +245,6 @@ section {
 
 }
 .regten >img {
-    position: relative;
     width: 100%;
 
 
@@ -301,10 +300,12 @@ section {
     width: 70%;
 }
 
-.gift-section-img {
+.gift-section-img   {
     display: flex;
+   
     flex-wrap: wrap;
     gap: 1.5em;
+    
 }
 
 /* gift-section style end  here */
